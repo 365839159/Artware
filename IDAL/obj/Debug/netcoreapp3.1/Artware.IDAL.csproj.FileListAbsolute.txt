@@ -1,9 +1,0 @@
-C:\Users\xian_cheng\Desktop\Artware\Artware\IDAL\bin\Debug\netcoreapp3.1\Artware.IDAL.deps.json
-C:\Users\xian_cheng\Desktop\Artware\Artware\IDAL\bin\Debug\netcoreapp3.1\Artware.IDAL.dll
-C:\Users\xian_cheng\Desktop\Artware\Artware\IDAL\bin\Debug\netcoreapp3.1\Artware.IDAL.pdb
-C:\Users\xian_cheng\Desktop\Artware\Artware\IDAL\obj\Debug\netcoreapp3.1\Artware.IDAL.csprojAssemblyReference.cache
-C:\Users\xian_cheng\Desktop\Artware\Artware\IDAL\obj\Debug\netcoreapp3.1\Artware.IDAL.AssemblyInfoInputs.cache
-C:\Users\xian_cheng\Desktop\Artware\Artware\IDAL\obj\Debug\netcoreapp3.1\Artware.IDAL.AssemblyInfo.cs
-C:\Users\xian_cheng\Desktop\Artware\Artware\IDAL\obj\Debug\netcoreapp3.1\Artware.IDAL.csproj.CoreCompileInputs.cache
-C:\Users\xian_cheng\Desktop\Artware\Artware\IDAL\obj\Debug\netcoreapp3.1\Artware.IDAL.dll
-C:\Users\xian_cheng\Desktop\Artware\Artware\IDAL\obj\Debug\netcoreapp3.1\Artware.IDAL.pdb
