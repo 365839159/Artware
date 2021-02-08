@@ -1,0 +1,8 @@
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.IBLL\bin\Debug\netcoreapp3.1\Artware.IBLL.deps.json
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.IBLL\bin\Debug\netcoreapp3.1\Artware.IBLL.dll
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.IBLL\bin\Debug\netcoreapp3.1\Artware.IBLL.pdb
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.IBLL\obj\Debug\netcoreapp3.1\Artware.IBLL.AssemblyInfoInputs.cache
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.IBLL\obj\Debug\netcoreapp3.1\Artware.IBLL.AssemblyInfo.cs
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.IBLL\obj\Debug\netcoreapp3.1\Artware.IBLL.csproj.CoreCompileInputs.cache
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.IBLL\obj\Debug\netcoreapp3.1\Artware.IBLL.dll
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.IBLL\obj\Debug\netcoreapp3.1\Artware.IBLL.pdb

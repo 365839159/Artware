@@ -1,31 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zxc\\Desktop\\artware\\Artware.Models\\Artware.Models.csproj": {}
+    "C:\\Users\\xian_cheng\\Desktop\\Artware\\Artware\\Artware.Models\\Artware.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zxc\\Desktop\\artware\\Artware.Models\\Artware.Models.csproj": {
+    "C:\\Users\\xian_cheng\\Desktop\\Artware\\Artware\\Artware.Models\\Artware.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zxc\\Desktop\\artware\\Artware.Models\\Artware.Models.csproj",
+        "projectUniqueName": "C:\\Users\\xian_cheng\\Desktop\\Artware\\Artware\\Artware.Models\\Artware.Models.csproj",
         "projectName": "Artware.Models",
-        "projectPath": "C:\\Users\\zxc\\Desktop\\artware\\Artware.Models\\Artware.Models.csproj",
-        "packagesPath": "C:\\Users\\zxc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zxc\\Desktop\\artware\\Artware.Models\\obj\\",
+        "projectPath": "C:\\Users\\xian_cheng\\Desktop\\Artware\\Artware\\Artware.Models\\Artware.Models.csproj",
+        "packagesPath": "C:\\Users\\xian_cheng\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xian_cheng\\Desktop\\Artware\\Artware\\Artware.Models\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\zxc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\xian_cheng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.forclass.net/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

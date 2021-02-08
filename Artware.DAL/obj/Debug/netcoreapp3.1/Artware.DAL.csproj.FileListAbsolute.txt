@@ -1,0 +1,12 @@
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.DAL\bin\Debug\netcoreapp3.1\Artware.DAL.deps.json
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.DAL\bin\Debug\netcoreapp3.1\Artware.DAL.runtimeconfig.json
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.DAL\bin\Debug\netcoreapp3.1\Artware.DAL.runtimeconfig.dev.json
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.DAL\bin\Debug\netcoreapp3.1\Artware.DAL.dll
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.DAL\bin\Debug\netcoreapp3.1\Artware.DAL.pdb
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.DAL\obj\Debug\netcoreapp3.1\Artware.DAL.csprojAssemblyReference.cache
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.DAL\obj\Debug\netcoreapp3.1\Artware.DAL.AssemblyInfoInputs.cache
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.DAL\obj\Debug\netcoreapp3.1\Artware.DAL.AssemblyInfo.cs
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.DAL\obj\Debug\netcoreapp3.1\Artware.DAL.csproj.CoreCompileInputs.cache
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.DAL\obj\Debug\netcoreapp3.1\Artware.DAL.dll
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.DAL\obj\Debug\netcoreapp3.1\Artware.DAL.pdb
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.DAL\obj\Debug\netcoreapp3.1\Artware.DAL.genruntimeconfig.cache

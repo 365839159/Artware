@@ -1,0 +1,9 @@
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.Models\bin\Debug\netcoreapp3.1\Artware.Models.deps.json
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.Models\bin\Debug\netcoreapp3.1\Artware.Models.dll
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.Models\bin\Debug\netcoreapp3.1\Artware.Models.pdb
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.Models\obj\Debug\netcoreapp3.1\Artware.Models.csprojAssemblyReference.cache
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.Models\obj\Debug\netcoreapp3.1\Artware.Models.AssemblyInfoInputs.cache
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.Models\obj\Debug\netcoreapp3.1\Artware.Models.AssemblyInfo.cs
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.Models\obj\Debug\netcoreapp3.1\Artware.Models.csproj.CoreCompileInputs.cache
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.Models\obj\Debug\netcoreapp3.1\Artware.Models.dll
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.Models\obj\Debug\netcoreapp3.1\Artware.Models.pdb

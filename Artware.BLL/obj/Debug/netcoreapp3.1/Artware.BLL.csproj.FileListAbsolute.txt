@@ -1,0 +1,9 @@
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.BLL\bin\Debug\netcoreapp3.1\Artware.BLL.deps.json
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.BLL\bin\Debug\netcoreapp3.1\Artware.BLL.dll
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.BLL\bin\Debug\netcoreapp3.1\Artware.BLL.pdb
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.BLL\obj\Debug\netcoreapp3.1\Artware.BLL.csprojAssemblyReference.cache
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.BLL\obj\Debug\netcoreapp3.1\Artware.BLL.AssemblyInfoInputs.cache
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.BLL\obj\Debug\netcoreapp3.1\Artware.BLL.AssemblyInfo.cs
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.BLL\obj\Debug\netcoreapp3.1\Artware.BLL.csproj.CoreCompileInputs.cache
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.BLL\obj\Debug\netcoreapp3.1\Artware.BLL.dll
+C:\Users\xian_cheng\Desktop\Artware\Artware\Artware.BLL\obj\Debug\netcoreapp3.1\Artware.BLL.pdb

@@ -1,31 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zxc\\Desktop\\artware\\ArtwareWebApp\\ArtwareWebApp.csproj": {}
+    "C:\\Users\\xian_cheng\\Desktop\\Artware\\Artware\\ArtwareWebApp\\ArtwareWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zxc\\Desktop\\artware\\ArtwareWebApp\\ArtwareWebApp.csproj": {
+    "C:\\Users\\xian_cheng\\Desktop\\Artware\\Artware\\Artware.BLL\\Artware.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zxc\\Desktop\\artware\\ArtwareWebApp\\ArtwareWebApp.csproj",
-        "projectName": "ArtwareWebApp",
-        "projectPath": "C:\\Users\\zxc\\Desktop\\artware\\ArtwareWebApp\\ArtwareWebApp.csproj",
-        "packagesPath": "C:\\Users\\zxc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zxc\\Desktop\\artware\\ArtwareWebApp\\obj\\",
+        "projectUniqueName": "C:\\Users\\xian_cheng\\Desktop\\Artware\\Artware\\Artware.BLL\\Artware.BLL.csproj",
+        "projectName": "Artware.BLL",
+        "projectPath": "C:\\Users\\xian_cheng\\Desktop\\Artware\\Artware\\Artware.BLL\\Artware.BLL.csproj",
+        "packagesPath": "C:\\Users\\xian_cheng\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xian_cheng\\Desktop\\Artware\\Artware\\Artware.BLL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\zxc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\xian_cheng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.forclass.net/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,6 +40,157 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\xian_cheng\\Desktop\\Artware\\Artware\\Artware.DAL\\Artware.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\xian_cheng\\Desktop\\Artware\\Artware\\Artware.DAL\\Artware.DAL.csproj",
+        "projectName": "Artware.DAL",
+        "projectPath": "C:\\Users\\xian_cheng\\Desktop\\Artware\\Artware\\Artware.DAL\\Artware.DAL.csproj",
+        "packagesPath": "C:\\Users\\xian_cheng\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xian_cheng\\Desktop\\Artware\\Artware\\Artware.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\xian_cheng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.forclass.net/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\xian_cheng\\Desktop\\Artware\\Artware\\ArtwareWebApp\\ArtwareWebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\xian_cheng\\Desktop\\Artware\\Artware\\ArtwareWebApp\\ArtwareWebApp.csproj",
+        "projectName": "ArtwareWebApp",
+        "projectPath": "C:\\Users\\xian_cheng\\Desktop\\Artware\\Artware\\ArtwareWebApp\\ArtwareWebApp.csproj",
+        "packagesPath": "C:\\Users\\xian_cheng\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xian_cheng\\Desktop\\Artware\\Artware\\ArtwareWebApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\xian_cheng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.forclass.net/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\xian_cheng\\Desktop\\Artware\\Artware\\Artware.BLL\\Artware.BLL.csproj": {
+                "projectPath": "C:\\Users\\xian_cheng\\Desktop\\Artware\\Artware\\Artware.BLL\\Artware.BLL.csproj"
+              },
+              "C:\\Users\\xian_cheng\\Desktop\\Artware\\Artware\\Artware.DAL\\Artware.DAL.csproj": {
+                "projectPath": "C:\\Users\\xian_cheng\\Desktop\\Artware\\Artware\\Artware.DAL\\Artware.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

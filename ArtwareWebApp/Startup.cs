@@ -1,5 +1,7 @@
+using Artware.DAL.DB;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -23,6 +25,11 @@ namespace ArtwareWebApp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            //Addidentity 方法指为系统提供默认的用户和角色类型的身份验证系统
+            services.AddIdentity<Microsoft.AspNetCore.Identity.IdentityUser, Microsoft.AspNetCore.Identity.IdentityRole>()
+                //AddEntityFraneworkStores 方法，指定DbContext 类作为泛型参数。最后将Authentication（）中间件添加到请求管道中 
+                .AddEntityFrameworkStores<AppDbContext>();
+            services.AddDbContext<AppDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("Artware")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
